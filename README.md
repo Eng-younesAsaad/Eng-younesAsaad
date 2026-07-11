@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&height=50&lines=Hello,+There!+👋;I'm+Yunus+Esad;Computer+Engineer;Deep+Learning+Enthusiast">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+There!+%F0%9F%91%8B;I%27m+Yunus+Esad;Computer+Engineer;Deep+Learning+Enthusiast">
   </a>
 </h1>
 
@@ -18,7 +18,8 @@
 <br>
 
 <p align="center">
-  Hi, I'm <strong>Yunus Esad</strong>, a passionate <strong>Computer Engineer</strong> from Turkey. 🇹🇷
+  Hi, I'm <strong>Yunus Esad</strong>, a passionate <strong>Computer Engineer</strong> from Syria. 🇸🇾
+  <br>Graduated from <strong>Karamanoğlu Mehmetbey University</strong> in Turkey. 🇹🇷
   <br>I love building intelligent systems, training neural networks, and developing robust applications.
 </p>
 
@@ -26,9 +27,9 @@
 
 <h3 align="center">🎓 Quick Overview</h3>
 <p align="center">
-  🎓 Graduated with a Bachelor's Degree in Computer Engineering with a GPA of <strong>3.19</strong>
+  🎓 Graduated with a Bachelor's Degree in Computer Engineering from Karamanoğlu Mehmetbey University (GPA: <strong>3.19</strong>)
   <br>
-  💻 Experienced in Web Programming and IT systems through hands-on internships
+  💻 Experienced in Web Programming and IT systems through hands-on internships in Turkey
   <br>
   🧠 Deeply interested in Deep Learning (CNNs), Computer Vision, and IoT solutions
   <br>
@@ -87,7 +88,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Eng-younesAsaad">
-          <img src="https://github-readme-stats.vercel.app/api?username=Eng-younesAsaad&show_icons=true&theme=dark&hide_border=true" alt="Yunus's GitHub stats" height="150" />
+          <img src="https://github-readme-stats-eight.vercel.app/api?username=Eng-younesAsaad&show_icons=true&theme=dark&hide_border=true" alt="Yunus's GitHub stats" height="150" />
         </a>
       </td>
       <td align="center">
@@ -100,7 +101,7 @@
       <td colspan="2" align="center">
         <br/>
         <a href="https://github.com/Eng-younesAsaad">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-younesAsaad&theme=dark&layout=compact&hide_border=true" alt="Top Languages" height="170" />
+          <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Eng-younesAsaad&theme=dark&layout=compact&hide_border=true" alt="Top Languages" height="170" />
         </a>
       </td>
     </tr>
@@ -117,12 +118,12 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Eng-younesAsaad/epileptic-seizure-prediction-cnn">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-younesAsaad&repo=epileptic-seizure-prediction-cnn&theme=dark&border_radius=10" height="120" />
+          <img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=Eng-younesAsaad&repo=epileptic-seizure-prediction-cnn&theme=dark&border_radius=10" height="120" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Eng-younesAsaad/fire-detection-system-main">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-younesAsaad&repo=fire-detection-system-main&theme=dark&border_radius=10" height="120" />
+          <img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=Eng-younesAsaad&repo=fire-detection-system-main&theme=dark&border_radius=10" height="120" />
         </a>
       </td>
     </tr>
@@ -130,7 +131,7 @@
       <td colspan="2" align="center">
         <br/>
         <a href="https://github.com/Eng-younesAsaad/ai-library-loan-tracker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-younesAsaad&repo=ai-library-loan-tracker&theme=dark&border_radius=10" height="120" />
+          <img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=Eng-younesAsaad&repo=ai-library-loan-tracker&theme=dark&border_radius=10" height="120" />
         </a>
       </td>
     </tr>
