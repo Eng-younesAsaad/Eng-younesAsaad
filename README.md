@@ -88,7 +88,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Eng-younesAsaad">
-          <img src="https://github-readme-stats-eight.vercel.app/api?username=Eng-younesAsaad&show_icons=true&theme=dark&hide_border=true" alt="Yunus's GitHub stats" height="150" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Eng-younesAsaad&show_icons=true&theme=dark&hide_border=true" alt="Yunus's GitHub stats" height="150" />
         </a>
       </td>
       <td align="center">
@@ -101,7 +101,7 @@
       <td colspan="2" align="center">
         <br/>
         <a href="https://github.com/Eng-younesAsaad">
-          <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Eng-younesAsaad&theme=dark&layout=compact&hide_border=true" alt="Top Languages" height="170" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-younesAsaad&theme=dark&layout=compact&hide_border=true" alt="Top Languages" height="170" />
         </a>
       </td>
     </tr>
@@ -118,12 +118,12 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Eng-younesAsaad/epileptic-seizure-prediction-cnn">
-          <img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=Eng-younesAsaad&repo=epileptic-seizure-prediction-cnn&theme=dark&border_radius=10" height="120" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-younesAsaad&repo=epileptic-seizure-prediction-cnn&theme=dark&border_radius=10" height="120" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Eng-younesAsaad/fire-detection-system-main">
-          <img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=Eng-younesAsaad&repo=fire-detection-system-main&theme=dark&border_radius=10" height="120" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-younesAsaad&repo=fire-detection-system-main&theme=dark&border_radius=10" height="120" />
         </a>
       </td>
     </tr>
@@ -131,7 +131,7 @@
       <td colspan="2" align="center">
         <br/>
         <a href="https://github.com/Eng-younesAsaad/ai-library-loan-tracker">
-          <img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=Eng-younesAsaad&repo=ai-library-loan-tracker&theme=dark&border_radius=10" height="120" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-younesAsaad&repo=ai-library-loan-tracker&theme=dark&border_radius=10" height="120" />
         </a>
       </td>
     </tr>
