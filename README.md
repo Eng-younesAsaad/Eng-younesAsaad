@@ -1,8 +1,6 @@
 <div align="center">
 
-  <a href="https://eng-younesasaad.github.io/portf/">
-    <img src="https://img.shields.io/badge/🌐_Explore_My_Live_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
-  </a>
+  
   <a href="https://linkedin.com/in/yunus-esad-5a2554395">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
